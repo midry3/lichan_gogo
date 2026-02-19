@@ -1,6 +1,6 @@
 # ライちゃんGO!GO!
 ちょっとしたパズルゲームです。
-<a href="https://midry3.github.io/games/li_chan/" target="_blank" rel="noopener">こちら</a> から遊べます。
+[こちら](https://midry3.github.io/games/li_chan/) から遊べます。
 
 # 制作について
 ゲームエンジンはGodotを使用しています。
